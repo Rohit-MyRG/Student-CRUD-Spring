@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.stud-list {
+    width: fit-content;
+    margin: auto;
+}
+.stud-list table,
+.stud-list th,
+.stud-list td {
+    border: solid 1px;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+.stud-list table tr:hover {
+    background-color: rgba(253, 253, 138, 0.863);
+}
+.stud-list table th {
+    background-color: rgb(129, 129, 129);
+    color: white;
+}
+.stud-list {
+    padding-bottom: 20px;
+}
+.nav li input {
+    display: inline-block;
+    border: solid 1px blue;
+    outline: none;
+    border-radius: 50px;
+    width: 200px;
+    margin: 3px 20px 0 0;
+    padding: 7px 17px;
+}
+.search-form {
+    float: right;
+}
