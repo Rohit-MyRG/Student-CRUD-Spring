@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>AtStud | Student Management System</title>
+	<title>Student Management System</title>
 	<style type="text/css">
 		<%@ include file="css/style.css"%>
 	</style>
